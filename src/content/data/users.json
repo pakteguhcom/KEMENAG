@@ -1,0 +1,14 @@
+[
+  {
+    "email": "coba@pakteguh.com",
+    "name": "User Coba",
+    "role": "admin",
+    "passwordHash": "$2b$10$x6BS1ImfmDXQBpdpWzFYnuOWS0R0F24U4HwL2V7SjZPJfA/nwNmSe"
+  },
+  {
+    "email": "admin@pakteguh.com",
+    "name": "Pak Teguh",
+    "role": "admin",
+    "passwordHash": "$2b$10$T8oV6MAaZdXSDFM9XiVn2.TX66ShK/QOaErJeNy8ylG9qnNBpMDsW"
+  }
+]
