@@ -1,0 +1,165 @@
+{
+  "brand": {
+    "name": {
+      "id": "Kementerian Agama",
+      "en": "Ministry of Religious Affairs"
+    },
+    "eyebrow": {
+      "id": "Republik Indonesia",
+      "en": "Republic of Indonesia"
+    },
+    "tagline": {
+      "id": "Ikhlas Beramal — Membangun Umat, Merawat Bangsa",
+      "en": "Sincere in Service — Building Community, Nurturing the Nation"
+    }
+  },
+  "contact": {
+    "phone": "(021) 3811642",
+    "email": "humas@kemenag.go.id",
+    "address": {
+      "id": "Jl. Lapangan Banteng Barat No.3-4, Jakarta Pusat 10710",
+      "en": "Jl. Lapangan Banteng Barat No.3-4, Central Jakarta 10710"
+    }
+  },
+  "social": {
+    "facebook": "https://facebook.com/",
+    "twitter": "https://twitter.com/",
+    "instagram": "https://instagram.com/",
+    "youtube": "https://youtube.com/",
+    "tiktok": "https://tiktok.com/"
+  },
+  "nav": [
+    {
+      "label": {
+        "id": "Beranda",
+        "en": "Home"
+      },
+      "to": "/"
+    },
+    {
+      "label": {
+        "id": "Profil",
+        "en": "About"
+      },
+      "to": "/profil"
+    },
+    {
+      "label": {
+        "id": "Berita",
+        "en": "News"
+      },
+      "to": "/berita"
+    },
+    {
+      "label": {
+        "id": "Layanan",
+        "en": "Services"
+      },
+      "to": "/layanan"
+    },
+    {
+      "label": {
+        "id": "Pengumuman",
+        "en": "Announcements"
+      },
+      "to": "/pengumuman"
+    },
+    {
+      "label": {
+        "id": "Agenda",
+        "en": "Agenda"
+      },
+      "to": "/agenda"
+    },
+    {
+      "label": {
+        "id": "Kontak",
+        "en": "Contact"
+      },
+      "to": "/kontak"
+    }
+  ],
+  "footer": {
+    "servicesTitle": {
+      "id": "Layanan",
+      "en": "Services"
+    },
+    "linksTitle": {
+      "id": "Tautan",
+      "en": "Links"
+    },
+    "contactTitle": {
+      "id": "Hubungi Kami",
+      "en": "Contact"
+    },
+    "copyright": {
+      "id": "Hak cipta dilindungi.",
+      "en": "All rights reserved."
+    },
+    "bottomLine": {
+      "id": "PPID • Peta Situs • Kebijakan Privasi",
+      "en": "PPID • Sitemap • Privacy Policy"
+    }
+  },
+  "ticker": {
+    "label": {
+      "id": "Pengumuman",
+      "en": "Announcements"
+    },
+    "urgentLabel": {
+      "id": "PENTING",
+      "en": "URGENT"
+    }
+  },
+  "home": {
+    "servicesEyebrow": {
+      "id": "Layanan Unggulan",
+      "en": "Featured Services"
+    },
+    "servicesTitle": {
+      "id": "Pelayanan untuk Umat",
+      "en": "Services for the Community"
+    },
+    "servicesDesc": {
+      "id": "Akses cepat menuju layanan terpenting Kementerian Agama, dari haji hingga sertifikasi halal.",
+      "en": "Quick access to the Ministry's key services — from hajj to halal certification."
+    },
+    "newsEyebrow": {
+      "id": "Berita Terkini",
+      "en": "Latest News"
+    },
+    "newsTitle": {
+      "id": "Kabar dari Kementerian",
+      "en": "News from the Ministry"
+    },
+    "greetingEyebrow": {
+      "id": "Sambutan",
+      "en": "Greeting"
+    },
+    "greetingTitle": {
+      "id": "Melayani dengan Ikhlas, Bekerja dengan Data",
+      "en": "Serve with Sincerity, Work with Data"
+    },
+    "greetingBody": {
+      "id": "Kementerian Agama berkomitmen menghadirkan layanan yang lebih dekat, lebih cepat, dan lebih transparan bagi seluruh umat beragama di Indonesia. Dengan transformasi digital dan penguatan moderasi, kami menyongsong masa depan bersama.",
+      "en": "The Ministry is committed to bringing services closer, faster, and more transparent for all religious communities in Indonesia. Through digital transformation and strengthened moderation, we build the future together."
+    },
+    "ministerLabel": {
+      "id": "Kepala Sekolah",
+      "en": "Head Master"
+    },
+    "ministerName": "Prof. Dr. H. Abdurrahman",
+    "agendaTitle": {
+      "id": "Agenda Kegiatan Terdekat",
+      "en": "Upcoming Events"
+    },
+    "ctaTitle": {
+      "id": "Butuh layanan atau informasi?",
+      "en": "Need a service or information?"
+    },
+    "ctaDesc": {
+      "id": "Hubungi Kementerian Agama atau kunjungi PTSP terdekat. Kami siap melayani.",
+      "en": "Contact the Ministry of Religious Affairs or visit the nearest one-stop office. We are ready to serve."
+    }
+  }
+}
