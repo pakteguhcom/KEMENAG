@@ -81,6 +81,13 @@
       "to": "/kontak"
     }
   ],
+  "partnerLogos": [
+    {
+      "id": "logo-1784420029280",
+      "name": "Logo Baru",
+      "image": "https://drive.google.com/file/d/1WGgqFUFDcNQr9tycflwrjeoAJDfBvzy5/view?usp=sharing"
+    }
+  ],
   "footer": {
     "servicesTitle": {
       "id": "Layanan",
@@ -151,7 +158,7 @@
       "en": "Head Master"
     },
     "ministerName": "Muhammad Maemun, S.Pd.Si",
-    "greetingImage": "https://drive.google.com/file/d/1N6iSMy87W_kY737ZhhR7yLVpOAL0HFJB/view?usp=sharing",
+    "greetingImage": "",
     "agendaTitle": {
       "id": "Agenda Kegiatan Terdekat",
       "en": "Upcoming Events"
@@ -164,6 +171,5 @@
       "id": "Hubungi Kementerian Agama atau kunjungi PTSP terdekat. Kami siap melayani.",
       "en": "Contact the Ministry of Religious Affairs or visit the nearest one-stop office. We are ready to serve."
     }
-  },
-  "partnerLogos": []
+  }
 }
