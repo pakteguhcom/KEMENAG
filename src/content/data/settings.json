@@ -79,6 +79,13 @@
         "en": "Contact"
       },
       "to": "/kontak"
+    },
+    {
+      "label": {
+        "id": "Alumni",
+        "en": "New Menu"
+      },
+      "to": "/alumni"
     }
   ],
   "partnerLogos": [
